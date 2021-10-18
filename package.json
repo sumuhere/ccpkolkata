@@ -1,0 +1,16 @@
+{
+  "name": "ccp-site",
+  "version": "1.0.0",
+  "description": "College portfolio of Central Calcutta Polytechnic",
+  "repository": "https://github.com/thatsuman/ccpkolkata",
+  "author": "Suman Mondal",
+  "license": "MIT",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "devDependencies": {
+    "parcel": "^2.0.0"
+  }
+}
