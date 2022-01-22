@@ -23,4 +23,4 @@ https://ccp.suman.social
 #### :earth_asia: Domain Aliases
 https://ccpsite.pages.dev
 
-https://thatsuman.github.io/ccpkolkata/src/index.htmls
+https://thatsuman.github.io/ccpkolkata/src/index.html
