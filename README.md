@@ -20,7 +20,7 @@ Student Made site of http://www.polytechnic.wbtetsd.gov.in/centralcalpoly
 #### :globe_with_meridians: Live Site
 https://ccp.suman.social
 
-#### :earth_asia: Domain Aliases
+#### 🌏 Mirrors
 https://ccpsite.pages.dev
 
 https://thatsuman.github.io/ccpkolkata/src/index.html
